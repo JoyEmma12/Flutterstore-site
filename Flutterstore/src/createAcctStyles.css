@@ -1,0 +1,194 @@
+.flutter_logo {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  left: 100px;
+}
+.flutter {
+  position: absolute;
+  width: 200px;
+  left: 158px;
+  font-size: 20px;
+}
+.login_btn {
+  width: 200px;
+  border-radius: 15px;
+  padding: 10px;
+  position: absolute;
+  left: 1100px;
+  top: 30px;
+  font-size: 12px;
+  background-color: rgba(70, 133, 255, 0.75);
+  border: none;
+}
+.login_btn:hover {
+  box-shadow: 2px -1px 23px 6px rgba(70, 133, 255, 0.75);
+}
+.account {
+  position: absolute;
+  top: 90px;
+}
+.cacct_form {
+  position: absolute;
+  width: 400px;
+  height: 530px;
+  background-color: white;
+  border: 3px solid #2f2e41;
+  box-shadow: -33px 29px 63px -4px rgba(70, 133, 255, 0.75);
+  top: 10px;
+  left: 50px;
+}
+.start {
+  font-size: 18px;
+  text-align: center;
+}
+#first_name {
+  position: absolute;
+  width: 300px;
+  height: 25px;
+  left: 40px;
+  top: 60px;
+}
+#last_name {
+  position: absolute;
+  width: 300px;
+  height: 25px;
+  left: 40px;
+  top: 110px;
+}
+#country {
+  position: absolute;
+  width: 300px;
+  height: 25px;
+  left: 40px;
+  top: 160px;
+}
+#email {
+  position: absolute;
+  width: 300px;
+  height: 25px;
+  left: 40px;
+  top: 210px;
+}
+#business_name {
+  position: absolute;
+  width: 300px;
+  height: 25px;
+  left: 40px;
+  top: 260px;
+}
+#pword {
+  position: absolute;
+  width: 300px;
+  height: 25px;
+  left: 40px;
+  top: 310px;
+}
+#cpword {
+  position: absolute;
+  width: 300px;
+  height: 25px;
+  left: 40px;
+  top: 360px;
+}
+.createacct_btn {
+  position: absolute;
+  width: 200px;
+  /* height: 25px;*/
+  left: 100px;
+  top: 410px;
+  padding: 10px;
+  background-color: rgba(70, 133, 255, 0.75);
+  border-radius: 15px;
+  border: none;
+}
+.createacct_btn:hover {
+  box-shadow: 2px -1px 23px 6px rgba(70, 133, 255, 0.75);
+}
+.conditions {
+  position: absolute;
+  /*width: 300px;*/
+  /*height: 25px;*/
+  left: 20px;
+  top: 460px;
+  font-size: 14px;
+}
+/*section 2 styling */
+.sub_container1 {
+  position: absolute;
+  left: 500px;
+  top: 98px;
+  width: 600px;
+  height: 150px;
+  border: 2px solid black;
+  /*box-shadow: -4px 3px 16px 7px rgba(0, 0, 0, 0.75);*/
+  /*background-image: url("pexels-karolina-grabowska-4968639.jpg");
+  background-repeat: no-repeat;
+  background-size: 600px 600px;*/
+}
+.circle {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  /*display: inline-block;*/
+  background-color: dodgerblue;
+  position: absolute;
+  top: 28px;
+}
+.tick1 {
+  position: absolute;
+  top: 35px;
+  left: 5px;
+}
+.header_1 {
+  position: absolute;
+  top: 10px;
+  left: 30px;
+}
+.para1 {
+  position: absolute;
+  top: 85px;
+  left: 2px;
+  word-wrap: break-word;
+}
+/*sub container1 styling end*/
+/* sub container2 styling start*/
+.sub_container2 {
+  position: absolute;
+  left: 500px;
+  top: 280px;
+  width: 600px;
+  height: 150px;
+  border: 2px solid black;
+  /*box-shadow: -4px 3px 16px 7px rgba(0, 0, 0, 0.75);*/
+}
+.header_2 {
+  position: absolute;
+  top: 10px;
+  left: 30px;
+}
+.para2 {
+  position: absolute;
+  top: 85px;
+  left: 2px;
+  word-wrap: break-word;
+}
+.sub_container3 {
+  position: absolute;
+  left: 500px;
+  top: 460px;
+  width: 600px;
+  height: 150px;
+  border: 2px solid black;
+}
+.header_3 {
+  position: absolute;
+  top: 10px;
+  left: 30px;
+}
+.para3 {
+  position: absolute;
+  top: 85px;
+  left: 2px;
+  word-wrap: break-word;
+}

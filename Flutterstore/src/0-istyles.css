@@ -1,0 +1,710 @@
+.main {
+  /*width: 500px;
+  height: 1111px;*/
+  position: relative;
+}
+
+.main-2 {
+  width: 66px;
+  height: 52px;
+  left: 1386px;
+  top: 1456px;
+  position: absolute;
+}
+.main-background {
+  /*width: 1000px;
+  height: 1000px;*/
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background: white;
+}
+.image-1 {
+  width: 500px;
+  height: 600px;
+  left: 799px;
+  top: 331px;
+  position: absolute;
+}
+.main-3 {
+  /* width: 1228px;
+  height: 78px;*/
+  left: 107px;
+  top: 47px;
+  position: absolute;
+}
+/*flutter logo styling*/
+.flutter {
+  position: absolute;
+  top: 4px;
+  width: 50px;
+}
+/*flutterstore styling*/
+.flutterstore {
+  width: 148px;
+  height: 36px;
+  left: 40px;
+  top: 3px;
+  position: absolute;
+  color: black;
+  font-size: 28px;
+  font-family: Lora;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+.payment {
+  width: 110px;
+  height: 29px;
+  left: 300px;
+  top: 11px;
+  position: absolute;
+  color: #061d4a;
+  font-size: 20px;
+  font-family: Lora;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+.commerce {
+  width: 135px;
+  height: 30px;
+  left: 450px;
+  top: 11px;
+  position: absolute;
+  color: #061d4a;
+  font-size: 20px;
+  font-family: Lora;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+.grow {
+  width: 74px;
+  height: 37px;
+  left: 610px;
+  top: 11px;
+  position: absolute;
+  color: black;
+  font-size: 20px;
+  font-family: Lora;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+.capital {
+  width: 94px;
+  height: 40px;
+  left: 730px;
+  top: 10px;
+  position: absolute;
+  color: black;
+  font-size: 20px;
+  font-family: Lora;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+.btn_login {
+  width: 100px;
+  height: 50px;
+  left: 900px;
+  top: 0px;
+  position: absolute;
+  background: #4685ff;
+  border-radius: 15px;
+}
+.btn_login:hover {
+  box-shadow: 2px -1px 23px 6px rgba(70, 133, 255, 0.75);
+  cursor: pointer;
+}
+.main_login {
+  width: 115px;
+  height: 20px;
+  left: 890px;
+  top: 10px;
+  position: absolute;
+  text-align: center;
+  color: #f2f2f2;
+  font-size: 18px;
+  font-family: Lora;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+/*shop it styling*/
+.shop_it {
+  width: 755px;
+  height: 172px;
+  left: 45px;
+  top: 160px;
+  position: absolute;
+  background: #061d4a;
+  background: -webkit-linear-gradient(
+    to right,
+    #061d4a 8%,
+    #ffb084 15%,
+    #ffb084 32%,
+    #635460 49%,
+    #4f485b 77%,
+    #ffb084 11%
+  );
+  background: -moz-linear-gradient(
+    to right,
+    #061d4a 8%,
+    #ffb084 15%,
+    #ffb084 32%,
+    #635460 49%,
+    #4f485b 77%,
+    #ffb084 11%
+  );
+  background: linear-gradient(
+    to right,
+    #061d4a 8%,
+    #ffb084 15%,
+    #ffb084 32%,
+    #635460 49%,
+    #4f485b 77%,
+    #ffb084 11%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 120px;
+  font-family: Lobster;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+/*about product*/
+.about_product {
+  width: 600px;
+  height: 105px;
+  left: 50px;
+  top: 368px;
+  position: absolute;
+  color: #061d4a;
+  font-size: 28px;
+  font-family: Lobster;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+.container_2 {
+  width: 302px;
+  height: 78px;
+  left: 75px;
+  top: 548px;
+  position: absolute;
+}
+.cacct_btn {
+  width: 230px;
+  height: 60px;
+  left: -30px;
+  top: -30px;
+  position: absolute;
+  background: #4685ff;
+  border-radius: 15px;
+}
+.cacct_btn:hover {
+  box-shadow: 2px -1px 23px 6px rgba(70, 133, 255, 0.75);
+  /*top: -30px;*/
+  cursor: pointer;
+}
+.create_acct {
+  width: 245px;
+  height: 36px;
+  left: 6px;
+  top: -12px;
+  position: absolute;
+  color: white;
+  font-size: 18px;
+  font-family: Lora;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+.container_3 {
+  width: 210px;
+  height: 78px;
+  left: 455px;
+  top: 540px;
+  position: absolute;
+}
+.csales_btn {
+  width: 190px;
+  height: 60px;
+  left: -100px;
+  top: -23px;
+  position: absolute;
+  background: #f2f2f2;
+  border-radius: 15px;
+  cursor: pointer;
+}
+.contact_sales {
+  width: 153px;
+  height: 37.48px;
+  left: -50px;
+  top: -5px;
+  position: absolute;
+  color: black;
+  font-size: 18px;
+  font-family: Lora;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+.container_4 {
+  width: 1000px;
+  height: 900px;
+  left: 0px;
+  top: 1024px;
+  position: absolute;
+  background: white;
+}
+/*foot city image styling*/
+.footcity_img {
+  width: 748px;
+  height: 500px;
+  left: 50px;
+  top: -95px;
+  position: absolute;
+}
+.uber_container {
+  width: 124px;
+  height: 105px;
+  left: 61px;
+  top: 793px;
+  position: absolute;
+}
+.uber {
+  width: 124px;
+  height: 35.26px;
+  left: 0px;
+  top: 5px;
+  position: absolute;
+  /*background-image: url("uber2.png");*/
+}
+.mtn {
+  width: 124px;
+  height: 69.44px;
+  left: 200px;
+  top: 811px;
+  position: absolute;
+}
+.piggyvest {
+  width: 310px;
+  height: 200px;
+  left: 785px;
+  top: 750px;
+  position: absolute;
+}
+.about_2 {
+  width: 561px;
+  height: 249px;
+  left: 815px;
+  top: 380px;
+  position: absolute;
+  color: #061d4a;
+  font-size: 25px;
+  font-family: Lobster;
+  font-weight: 400;
+  /*line-height: 10px;*/
+  /*letter-spacing: 0.72px;*/
+  word-wrap: break-word;
+}
+.about_3 {
+  width: 608px;
+  left: 50px;
+  top: 600px;
+  position: absolute;
+  color: #061d4a;
+  font-size: 30px;
+  font-family: Lobster;
+  font-weight: 400;
+  line-height: 50px;
+  letter-spacing: 0.72px;
+  word-wrap: break-word;
+}
+.chipper {
+  width: 460.14px;
+  height: 159px;
+  left: 360px;
+  top: 772px;
+  position: absolute;
+}
+.cashex {
+  width: 200px;
+  height: 200px;
+  left: 1099px;
+  top: 750px;
+  position: absolute;
+}
+.container_5 {
+  /* width: 1400px;
+  height: 1000px;*/
+  left: 0px;
+  top: 2048px;
+  position: absolute;
+}
+.chairlamp_img {
+  width: 1300px;
+  height: 1000px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+}
+.sselling_btn {
+  width: 200px;
+  height: 50px;
+  left: 900px;
+  top: 900px;
+  position: absolute;
+  background: #4685ff;
+  border-radius: 15px;
+  /*transition: all ease-out 300ms;*/
+}
+.sselling_btn:hover {
+  box-shadow: 2px -1px 23px 6px rgba(70, 133, 255, 0.75);
+  cursor: pointer;
+}
+/*start selling style */
+.start_selling {
+  width: 261px;
+  height: 67px;
+  left: 870px;
+  top: 910px;
+  position: absolute;
+  text-align: center;
+  color: white;
+  font-size: 18px;
+  font-family: Lora;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+
+.container_6 {
+  /* width: 700px;
+  height: 900px;*/
+  left: 23px;
+  top: 28px;
+  position: absolute;
+}
+.sub_container {
+  width: 70px;
+  height: 60px;
+  left: 30px;
+  top: 0px;
+  position: absolute;
+}
+.sub_container1 {
+  width: 50px;
+  height: 50px;
+  left: -3px;
+  top: -3px;
+  position: absolute;
+  background: #ffb084;
+  border-radius: 9999px;
+}
+.number_1 {
+  width: 41px;
+  height: 64px;
+  left: 3px;
+  top: 3px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 25px;
+  font-family: Lora;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+.number1_line {
+  width: 251px;
+  height: 0px;
+  left: 54px;
+  top: 80px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px #4685ff solid;
+}
+.sub2_container {
+  width: 70px;
+  height: 60px;
+  left: 10px;
+  top: 360px;
+  position: absolute;
+}
+.sub2_container2 {
+  width: 50px;
+  height: 50px;
+  left: 15px;
+  top: 0px;
+  position: absolute;
+  background: #ffb084;
+  border-radius: 9999px;
+}
+.number_2 {
+  width: 41px;
+  height: 64px;
+  left: 20px;
+  top: 5px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 25px;
+  font-family: Lora;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+.number2_line {
+  width: 204px;
+  height: 0px;
+  left: 50px;
+  top: 448px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px #4685ff solid;
+}
+.sub3_container {
+  width: 70px;
+  height: 60px;
+  left: 10px;
+  top: 700px;
+  position: absolute;
+}
+.sub3_container3 {
+  width: 50px;
+  height: 50px;
+  left: 10px;
+  top: -10px;
+  position: absolute;
+  background: #ffb084;
+  border-radius: 9999px;
+}
+.number_3 {
+  width: 41px;
+  height: 64px;
+  left: 15px;
+  top: -4px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 25px;
+  font-family: Lora;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+.about_4 {
+  width: 605px;
+  left: 105px;
+  top: 100px;
+  position: absolute;
+  text-align: center;
+  color: #061d4a;
+  font-size: 25px;
+  font-family: Lora;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+.createacct {
+  width: 587px;
+  left: 10px;
+  top: 0px;
+  position: absolute;
+  text-align: center;
+  color: #061d4a;
+  font-size: 28px;
+  font-family: Lora;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+.create {
+  width: 300px;
+  left: 70px;
+  top: 365px;
+  position: absolute;
+  text-align: center;
+  color: #061d4a;
+  font-size: 28px;
+  font-family: Lora;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+.set_up {
+  width: 582px;
+  left: 112px;
+  top: 478px;
+  position: absolute;
+  text-align: center;
+  color: #061d4a;
+  font-size: 25px;
+  font-family: Lora;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+.share {
+  width: 564px;
+  left: 76px;
+  top: 795px;
+  position: absolute;
+  text-align: center;
+  color: #061d4a;
+  font-size: 25px;
+  font-family: Lora;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+.selling {
+  width: 563px;
+  left: -93px;
+  top: 698px;
+  position: absolute;
+  text-align: center;
+  color: #061d4a;
+  font-size: 28px;
+  font-family: Lora;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+.container_7 {
+  /* width: 1000px;
+  height: 1000px;*/
+  left: 0px;
+  top: 3072px;
+  position: absolute;
+  background: white;
+}
+.girlhat_img {
+  width: 400px;
+  height: 400px;
+  left: 210px;
+  top: 500px;
+  position: absolute;
+  transform: rotate(10.66deg);
+  transform-origin: 0 0;
+  box-shadow: 0px 5px 5px 5px black;
+}
+.circle {
+  width: 200px;
+  height: 200px;
+  left: 0px;
+  top: 85px;
+  position: absolute;
+  background: #ffb084;
+  border-radius: 9999px;
+}
+.products {
+  width: 583px;
+  height: 270px;
+  left: 33px;
+  top: 230px;
+  position: absolute;
+  text-align: center;
+  color: #061d4a;
+  font-size: 30px;
+  font-family: Lora;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+.creator_img {
+  width: 400px;
+  height: 400px;
+  left: 700px;
+  top: 200px;
+  position: absolute;
+  transform: rotate(-9.55deg);
+  transform-origin: 0 0;
+  box-shadow: 0px 5px 5px 5px black;
+}
+.digital_products {
+  width: 623px;
+  height: 303px;
+  left: 650px;
+  top: 700px;
+  position: absolute;
+  text-align: center;
+  color: #061d4a;
+  font-size: 25px;
+  font-family: Lora;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+.container_8 {
+  /*width: 1200px;
+  height: 1024px;*/
+  left: 0px;
+  top: 4096px;
+  position: absolute;
+  background: white;
+}
+.final_about {
+  width: 1000px;
+  left: 132px;
+  top: 200px;
+  position: absolute;
+  text-align: center;
+  color: #061d4a;
+  font-size: 25px;
+  font-family: Lora;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+.sub4_container {
+  width: 300px;
+  height: 100px;
+  left: 134px;
+  top: 709px;
+  position: absolute;
+}
+.selling_btn {
+  width: 200px;
+  height: 50px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background: #4685ff;
+  border-radius: 15px;
+}
+.selling_btn:hover {
+  box-shadow: 2px -1px 23px 6px rgba(70, 133, 255, 0.75);
+}
+.startselling_btn {
+  width: 200px;
+  height: 50px;
+  left: 0px;
+  top: 10px;
+  position: absolute;
+  text-align: center;
+  color: white;
+  font-size: 18px;
+  font-family: Lora;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+.sub5_container {
+  width: 200px;
+  height: 50px;
+  left: 592px;
+  top: 704px;
+  position: absolute;
+}
+.explore_btn {
+  width: 200px;
+  height: 50px;
+  left: -100px;
+  top: 10px;
+  position: absolute;
+  background: #f2f2f2;
+  border-radius: 15px;
+}
+.explore_market {
+  width: 341px;
+  height: 49px;
+  left: -170px;
+  top: 20px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 18px;
+  font-family: Lora;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+.shopping_img {
+  position: absolute;
+  width: 500px;
+  top: -400px;
+  left: -200px;
+}
